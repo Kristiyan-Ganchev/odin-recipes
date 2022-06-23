@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(6, 89, 89);
+}
+img{
+    width: max-content;
+    height:300px;
+}
+h1{
+    text-align: center;
+    background-color: cadetblue;
+    color: aliceblue;
+    font-weight: bold;
+}
+h2,
+h3{
+    color: aliceblue;
+    text-align: center;
+    background-color: darkcyan;
+}
+ol,
+ul{
+    background-color: cornflowerblue;
+}
+li{
+    color: beige;
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: aliceblue;
+}
+a{
+    font-weight: bold;
+    color: aliceblue;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
